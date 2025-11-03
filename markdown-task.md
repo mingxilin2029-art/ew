@@ -14,7 +14,9 @@ our mission is to:
 
 # Featured Trees 
 ## Oak Tree
+
 **scientific Name:** Quercus robur
+
 <img src="https://sites.dartmouth.edu/dujs/files/2020/11/EL-1.png"/>
 Known fir its strength and longevity, the oak is a symbol of endurance.
 ---

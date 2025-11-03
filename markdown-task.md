@@ -23,6 +23,7 @@ Known fir its strength and longevity, the oak is a symbol of endurance.
 
 # Pine Tree
 **scintific Name:** *Pinus*
+
 Evergreen and aromatic, pine trees thrive in colder regions.
 <img src="https://www.sciencing.com/sciencing/do-pine-trees-need-survive-6549613/c64512e361624e3d9a21ffc39aed7f5c.jpg" alt="What Do Pine Trees Need To Survive?"/>
 
